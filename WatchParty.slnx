@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WatchParty.AdminApi/WatchParty.AdminApi.csproj" />
+    <Project Path="src/WatchParty.Application/WatchParty.Application.csproj" />
+    <Project Path="src/WatchParty.Domain/WatchParty.Domain.csproj" />
+    <Project Path="src/WatchParty.Infrastructure/WatchParty.Infrastructure.csproj" />
+    <Project Path="src/WatchParty.PublicApi/WatchParty.PublicApi.csproj" />
+    <Project Path="src/WatchParty.Transcoding.Worker/WatchParty.Transcoding.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WatchParty.Application.UnitTests/WatchParty.Application.UnitTests.csproj" />
+    <Project Path="tests/WatchParty.ArchitectureTests/WatchParty.ArchitectureTests.csproj" />
+    <Project Path="tests/WatchParty.Domain.UnitTests/WatchParty.Domain.UnitTests.csproj" />
+    <Project Path="tests/WatchParty.IntegrationTests/WatchParty.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
