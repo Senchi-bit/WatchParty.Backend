@@ -5,6 +5,7 @@
     <Project Path="src/WatchParty.Domain/WatchParty.Domain.csproj" />
     <Project Path="src/WatchParty.Infrastructure/WatchParty.Infrastructure.csproj" />
     <Project Path="src/WatchParty.PublicApi/WatchParty.PublicApi.csproj" />
+    <Project Path="src/WatchParty.SharedKernel/WatchParty.SharedKernel.csproj" />
     <Project Path="src/WatchParty.Transcoding.Worker/WatchParty.Transcoding.Worker.csproj" />
   </Folder>
   <Folder Name="/tests/">

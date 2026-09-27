@@ -1,1 +1,6 @@
-﻿<Project Sdk="Microsoft.NET.Sdk" />
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\WatchParty.SharedKernel\WatchParty.SharedKernel.csproj" />
+    <InternalsVisibleTo Include="WatchParty.Infrastructure" />
+  </ItemGroup>
+</Project>

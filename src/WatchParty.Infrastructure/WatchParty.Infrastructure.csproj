@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <ProjectReference Include="..\WatchParty.Application\WatchParty.Application.csproj" />
+    <ProjectReference Include="..\WatchParty.SharedKernel\WatchParty.SharedKernel.csproj" />
   </ItemGroup>
 
   <ItemGroup>
